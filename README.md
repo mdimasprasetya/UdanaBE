@@ -2,8 +2,8 @@ Langkah-Langkah Menjalankan Backend
 1. Clone Repository
   Clone repo ke komputer:
 
-  git clone https://github.com/username/repository-name.git
-  cd repository-name
+  -git clone https://github.com/username/repository-name.git
+  -cd udana
   
 2. Install Dependencies
   Install dependencies dengan npm:
