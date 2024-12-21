@@ -1,3 +1,11 @@
+Teknologi yang saya gunakan Untuk api pekerjaan ini:
+- Node Js
+- Express Js
+- Sequelize
+- MySQL
+- Xampp
+- Apache
+
 Langkah-Langkah Menjalankan Backend
 1. Clone Repository
   Clone repo ke komputer:
