@@ -36,7 +36,7 @@ Langkah-Langkah Menjalankan Backend
    
 6. Menjalankan Server
    
-   nodemon bin/www
+   nodemon bin/www atau nodemon start (bisa liat di package.json)
 
 8. Menguji Backend di Postman
 
