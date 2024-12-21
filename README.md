@@ -4,7 +4,7 @@ Langkah-Langkah Menjalankan Backend
 
   -  git clone
 
-     https://github.com/mdimasprasetya/UdanaBE.git
+     git clone https://github.com/mdimasprasetya/UdanaBE.git
   
   -  masukan ke directory
 
